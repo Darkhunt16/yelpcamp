@@ -1,6 +1,6 @@
 # YelpCamp
 
-https://yelpcamp-hvd0.onrender.com/
+https://yelpcamp-p57j.onrender.com/
 
 YelpCamp is a web application that allows users to view, create, and review campgrounds. It includes user authentication, authorization, and basic CRUD functionalities for campgrounds and reviews.
 
@@ -27,7 +27,7 @@ YelpCamp is a web application that allows users to view, create, and review camp
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yingzhengv5/YelpCamp.git
+    git clone https://github.com/Darkhunt16/yelpcamp.git
     cd YelpCamp
     ```
 2. Install dependencies
