@@ -1,10 +1,5 @@
 # YelpCamp
 
-<<<<<<< HEAD
-https://yelpcamp-hvd0.onrender.com/
-=======
-
->>>>>>> 76f447c66b97f585e71f388cea1422be0cd62989
 
 YelpCamp is a web application that allows users to view, create, and review campgrounds. It includes user authentication, authorization, and basic CRUD functionalities for campgrounds and reviews.
 
